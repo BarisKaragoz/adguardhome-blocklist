@@ -1,5 +1,11 @@
 ||www.nu.nl^
 ||nos.nl^
 ||www.reddit.com^
+||gql-realtime.reddit.com^
 ||old.reddit.com^
 ||redd.it^
+||dualstack.reddit.map.fastly.net^
+||reddit.com^
+||reddit.map.fastly.net^
+||redditmedia.com^
+||redditstatic.com^
