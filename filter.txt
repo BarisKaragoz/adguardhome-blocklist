@@ -9,3 +9,5 @@
 ||reddit.map.fastly.net^
 ||redditmedia.com^
 ||redditstatic.com^
+||x.com^
+||twitter.com^
