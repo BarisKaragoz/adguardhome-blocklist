@@ -11,3 +11,13 @@
 ||redditstatic.com^
 ||x.com^
 ||twitter.com^
+||api.x.com^
+||api.twitter.com^
+||mobile.twitter.com^
+||tweetdeck.twitter.com^
+||pbs.twimg.com^
+||video.twimg.com^
+||abs.twimg.com^
+||ton.twimg.com^
+||twimg.com^
+||t.co^
